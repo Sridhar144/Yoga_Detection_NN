@@ -42,7 +42,6 @@ This AI-driven tool provides real-time yoga posture analysis and feedback. It us
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/yoga-pose-detection.git
    cd yoga-pose-detection
 Install Dependencies:
 
